@@ -1,0 +1,14 @@
+[
+  {"order_id": "ORD001", "supplier_id": "SUP01", "order_date": "2026-05-01", "delivery_date": "2026-05-10", "quantity": 120, "stock_level": 340, "reorder_threshold": 200, "unit_price": 12.5},
+  {"order_id": "ORD002", "supplier_id": "SUP02", "order_date": "2026-05-02", "delivery_date": "2026-05-20", "quantity": 80, "stock_level": 150, "reorder_threshold": 200, "unit_price": 9.75},
+  {"order_id": "ORD003", "supplier_id": "SUP01", "order_date": "2026-05-03", "delivery_date": null, "quantity": 200, "stock_level": 500, "reorder_threshold": 300, "unit_price": 14.0},
+  {"order_id": "ORD004", "supplier_id": "SUP03", "order_date": "2026-05-04", "delivery_date": "2026-05-08", "quantity": 60, "stock_level": 90, "reorder_threshold": 100, "unit_price": 22.3},
+  {"order_id": "ORD005", "supplier_id": "SUP02", "order_date": "2026-05-05", "delivery_date": "2026-06-01", "quantity": null, "stock_level": 60, "reorder_threshold": 100, "unit_price": 9.75},
+  {"order_id": "ORD006", "supplier_id": "SUP04", "order_date": "2026-05-06", "delivery_date": "2026-05-12", "quantity": 150, "stock_level": 410, "reorder_threshold": 250, "unit_price": 5.6},
+  {"order_id": "ORD007", "supplier_id": "SUP01", "order_date": "2026-05-07", "delivery_date": "2026-05-15", "quantity": 95, "stock_level": null, "reorder_threshold": 200, "unit_price": 12.5},
+  {"order_id": "ORD008", "supplier_id": "SUP03", "order_date": "2026-05-08", "delivery_date": "2026-05-09", "quantity": 40, "stock_level": 70, "reorder_threshold": 100, "unit_price": 22.3},
+  {"order_id": "ORD009", "supplier_id": "SUP05", "order_date": "2026-05-09", "delivery_date": "2026-06-05", "quantity": 300, "stock_level": 620, "reorder_threshold": 400, "unit_price": 7.2},
+  {"order_id": "ORD010", "supplier_id": "SUP02", "order_date": "2026-05-10", "delivery_date": "2026-05-14", "quantity": 110, "stock_level": 230, "reorder_threshold": 200, "unit_price": 9.75},
+  {"order_id": "ORD011", "supplier_id": "SUP04", "order_date": "2026-05-11", "delivery_date": "2026-05-13", "quantity": 75, "stock_level": 180, "reorder_threshold": 250, "unit_price": 5.6},
+  {"order_id": "ORD012", "supplier_id": "SUP05", "order_date": "2026-05-12", "delivery_date": "2026-05-25", "quantity": 200, "stock_level": 510, "reorder_threshold": 400, "unit_price": 7.2}
+]
