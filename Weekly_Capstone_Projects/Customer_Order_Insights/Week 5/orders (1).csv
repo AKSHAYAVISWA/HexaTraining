@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,delivery_date,issue_type
+1001,101,2026-06-01,2026-06-05,Late Delivery
+1002,102,2026-06-02,2026-06-04,Damaged Package
+1003,103,2026-06-03,2026-06-07,No Issue Reported
+1004,101,2026-06-05,2026-06-10,Late Delivery
+1005,104,2026-06-06,2026-06-08,Wrong Item
+1006,105,2026-06-07,2026-06-09,No Issue Reported
+1007,102,2026-06-08,2026-06-12,Damaged Package
+1008,106,2026-06-09,2026-06-13,Late Delivery
+1009,107,2026-06-10,2026-06-11,No Issue Reported
+1010,108,2026-06-11,2026-06-15,Address Issue
+1011,109,2026-06-12,2026-06-16,Late Delivery
+1012,110,2026-06-13,2026-06-14,No Issue Reported
+1013,103,2026-06-14,2026-06-18,Damaged Package
+1014,104,2026-06-15,2026-06-19,Late Delivery
+1015,105,2026-06-16,2026-06-20,Wrong Item
