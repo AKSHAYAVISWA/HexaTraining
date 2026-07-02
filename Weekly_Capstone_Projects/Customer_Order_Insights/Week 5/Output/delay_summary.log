@@ -1,0 +1,23 @@
+Customer Order Insights Summary
+========================================
+
+Top Delayed Customers
+customer_id
+101    2
+102    2
+103    2
+104    2
+105    2
+106    1
+107    1
+108    1
+109    1
+110    1
+
+Most Common Delivery Issues
+issue_type
+Late Delivery        5
+No Issue Reported    4
+Damaged Package      3
+Wrong Item           2
+Address Issue        1
