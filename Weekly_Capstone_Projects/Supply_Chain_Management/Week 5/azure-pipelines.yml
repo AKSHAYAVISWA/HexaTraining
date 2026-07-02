@@ -1,0 +1,28 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.11'
+
+- script: |
+    cd SupplyChainProject
+    python -m pip install --upgrade pip
+    pip install -r requirements.txt
+  displayName: 'Install Dependencies'
+
+- script: |
+    cd SupplyChainProject
+    python run_pipeline.py
+  displayName: 'Run Supply Chain Project'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: 'SupplyChainProject'
+    ArtifactName: 'SupplyChainOutput'
+  displayName: 'Publish Project Files'
